@@ -5,6 +5,7 @@ on:
 jobs:
   assemble:
     name: Build
+
     runs-on: ubuntu-18.04
 
     steps:
